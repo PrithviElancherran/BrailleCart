@@ -7,3 +7,7 @@ Steps to download grocery dataset:
 1. Click on the above dataset link and visit the website.
 2. Select Yolov8 as the download format.
 3. Select download as zip file and download it.
+
+Steps for model training:
+1. Save the downloaded dataset file (zip file) to google drive.
+2. Run all the cells in ths same order.
