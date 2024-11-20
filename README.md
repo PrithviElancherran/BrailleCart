@@ -59,5 +59,5 @@
 + This will involve profiling each component to identify bottlenecks and addressing them appropriately.
   
 **5.3 Future Developments**
-+ Enhance the UI with features such as voice commands and better flow.
-+ Refine the LLM response generation to provide a more natural and conversational experience.
++ Need to enhance the UI with features such as voice commands and better flow.
++ Need to refine the LLM response generation to provide a more natural and conversational experience.
