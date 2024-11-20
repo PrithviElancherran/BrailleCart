@@ -18,9 +18,9 @@
 + OCR integration: Planned for future development
 + LLM-based text-to-speech: Planned for future development
   
-**2. Baseline Modules Description
+**2. Baseline Modules Description**
 
-**2.1 YOLOv8n Object Detection Module****
+**2.1 YOLOv8n Object Detection Module**
 + This is the core component of our system, responsible for detecting grocery items from real-time camera input.
 + YOLOv8n was chosen for its accuracy and speed, which is crucial for providing visually impaired users with timely information.
 + This module forms the baseline for all subsequent modules, as accurate item detection is key to the rest of the system functioning effectively.
