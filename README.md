@@ -2,7 +2,7 @@
 **1. Achievements So Far**
 
 **1.1 Grocery Object Detection Using YOLOv8n**
-+ Implemented object detection for various grocery items using the YOLOv8n model, achieving a precision of X%.
++ Implemented object detection for various grocery items using the YOLOv8n model, achieving a precision of 99.4%.
   
 **1.2 Feature Extraction**
 + Extracted relevant features such as brand name and type of product to enhance object recognition accuracy.
