@@ -8,7 +8,7 @@ import random
 import shutil
 
 # Load the model
-model = YOLO('best.pt')
+model = YOLO('runs/detect/train/weights/best.pt')
 
 
 def predict_item(image_path, output_folder):
@@ -65,7 +65,7 @@ def predict_item(image_path, output_folder):
 
 
 def main():
-    st.set_page_config(page_title="VisionAI",
+    st.set_page_config(page_title="BrailleCart",
                    page_icon = '👓👓',
                    layout = 'centered',
                    initial_sidebar_state = 'collapsed')
