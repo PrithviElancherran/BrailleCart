@@ -1,7 +1,7 @@
 # BrailleCart
-**1. Achievements So Far
+**1. Achievements So Far**
 
-**1.1 Grocery Object Detection Using YOLOv8n****
+**1.1 Grocery Object Detection Using YOLOv8n**
 + Implemented object detection for various grocery items using the YOLOv8n model, achieving a precision of X%.
   
 **1.2 Feature Extraction**
