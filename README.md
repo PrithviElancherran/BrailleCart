@@ -26,9 +26,11 @@ Current Status of Modules:
 + The user interface provides a bridge between the visually impaired user and the BrailleCart system.
 + The UI allows users to initiate object detection and receive feedback in an accessible format.
 + This module's partial functionality currently supports basic interactions, but we plan to enhance it with additional features in upcoming milestones.
++ 
 **3. References**
 + Roboflow Universe, "Grocery Dataset," https://universe.roboflow.com/new-workspace-wfzw3/grocery-dataset-q9fj2/dataset/4
 + Ultralytics, "SKU-110K Dataset," https://docs.ultralytics.com/datasets/detect/sku-110k/
++ 
 **4. Challenges Encountered**
 **4.1 OCR Integration**
 + The initial attempt at OCR integration faced issues in detecting labels under different lighting and angle conditions.
@@ -36,6 +38,7 @@ Current Status of Modules:
 **4.2 Module Coordination**
 + Integrating various modules (YOLO, OCR, LLM, and UI) and ensuring smooth coordination was challenging.
 + Different latency levels between modules sometimes led to a lag in response time, affecting user experience.
++ 
 **5. Plans to Overcome Challenges**
 **5.1 Improving OCR Integration**
 + Plan to experiment with additional OCR tools such as Tesseract and implement preprocessing techniques to enhance image quality.
