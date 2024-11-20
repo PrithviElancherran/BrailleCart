@@ -1,19 +1,18 @@
 # BrailleCart
 **1. Achievements So Far
 1.1 Grocery Object Detection Using YOLOv8n**
-Implemented object detection for various grocery items using the YOLOv8n model, achieving a precision of X%.
-[Code link: [GitHub Repo]]
++ Implemented object detection for various grocery items using the YOLOv8n model, achieving a precision of X%.
 **1.2 Feature Extraction**
-Extracted relevant features such as brand name and type of product to enhance object recognition accuracy.
++ Extracted relevant features such as brand name and type of product to enhance object recognition accuracy.
 **1.3 UI Development with Streamlit**
-Created a basic user interface using Streamlit to facilitate interaction between the visually impaired user and the BrailleCart system.
-This UI currently allows users to trigger object detection and receive audio feedback.
++ Created a basic user interface using Streamlit to facilitate interaction between the visually impaired user and the BrailleCart system.
++ This UI currently allows users to trigger object detection and receive audio feedback.
 Current Status of Modules:
-Grocery object detection: Fully functional
-Feature extraction: Fully functional
-UI using Streamlit: Partially functional
-OCR integration: Planned for future development
-LLM-based text-to-speech: Planned for future development
++ Grocery object detection: Fully functional
++ Feature extraction: Fully functional
++ UI using Streamlit: Partially functional
++ OCR integration: Planned for future development
++ LLM-based text-to-speech: Planned for future development
 **2. Baseline Modules Description
 2.1 YOLOv8n Object Detection Module**
 This is the core component of our system, responsible for detecting grocery items from real-time camera input.
