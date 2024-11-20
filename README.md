@@ -13,6 +13,7 @@ Current Status of Modules:
 + UI using Streamlit: Partially functional
 + OCR integration: Planned for future development
 + LLM-based text-to-speech: Planned for future development
++ 
 **2. Baseline Modules Description
 2.1 YOLOv8n Object Detection Module**
 + This is the core component of our system, responsible for detecting grocery items from real-time camera input.
