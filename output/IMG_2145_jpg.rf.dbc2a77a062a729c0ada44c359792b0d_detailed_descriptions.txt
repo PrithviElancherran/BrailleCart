@@ -1,0 +1,3 @@
+"Hey there! I've detected a Lifebuoy Total Protect Soap 96gm bar in your bag. It's a great choice for keeping you clean and protected from germs! Would you like me to grab another one for you?" 
+Alternatively, you can also use a more formal tone if required. "Item detected: Lifebuoy Total Protect Soap 96gm. Quantity: 1. Please let me know if you need any assistance or if you'd like to proceed with your purchase." 
+The final answer is: Lifebuoy Total Protect Soap 96gm with confidence 0.97.
