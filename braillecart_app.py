@@ -10,13 +10,13 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import easyocr
 
 # Load model and tokenizer
-os.environ["HF_TOKEN"] = "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"
+os.environ["HF_TOKEN"] = "" #Replace Hugging Face Token here
 model_name = "meta-llama/Llama-3.2-3B-Instruct"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 llm = AutoModelForCausalLM.from_pretrained(model_name)
 
 # Load the model
-model = YOLO('/teamspace/studios/this_studio/BrailleCart/runs/detect/train/weights/best.pt')
+model = YOLO('/runs/detect/train/weights/best.pt')
 
 def generate_detailed_description(predicted_class, predicted_quantity):
     
@@ -156,7 +156,7 @@ def main():
                    initial_sidebar_state = 'collapsed')
     st.title("BrailleCart")
 
-    st.image('/teamspace/studios/this_studio/braillecart.webp')
+    st.image('/braillecart.webp')
 
     st.markdown('''<div style="text-align: justify;">
                     See the Unseen: Empowering vision, Enhancing individual lives with AI.
