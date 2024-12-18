@@ -1,3 +1,1 @@
-"Hey there! I've detected a Lifebuoy Total Protect Soap 96gm bar in your bag. It's a great choice for keeping you clean and protected from germs! Would you like me to grab another one for you?" 
-Alternatively, you can also use a more formal tone if required. "Item detected: Lifebuoy Total Protect Soap 96gm. Quantity: 1. Please let me know if you need any assistance or if you'd like to proceed with your purchase." 
-The final answer is: Lifebuoy Total Protect Soap 96gm with confidence 0.97.
+Hi there! I've got some exciting news for you! We've detected a Lifebuoy Total Protect Soap in your cart! You've got 96 grams of soap goodness that's perfect for keeping your skin clean and protected. With its confidence-boosting formula, you can feel great about using it every day. How many bars would you like to add to your order? (1, 2, or 3) Please respond with the number of bars you'd like to add.
