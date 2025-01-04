@@ -1,11 +1,11 @@
 # BrailleCart: AI-Powered Grocery Assistance for the Visually Impaired
 
-[Dataset download link](https://universe.roboflow.com/new-workspace-wfzw3/grocery-dataset-q9fj2/dataset/5)
-
-
 **BrailleCart** is an AI-powered system designed to assist visually impaired individuals in identifying and learning about grocery items in real-time. Combining advanced AI technologies like YOLOv8n for object detection, OCR for extracting product details, and LLaMA-based conversational text-to-speech, BrailleCart enhances the shopping experience through a simple and accessible interface.
 
 ---
+
+## Dataset
+[Dataset download link](https://universe.roboflow.com/new-workspace-wfzw3/grocery-dataset-q9fj2/dataset/5)
 
 ## Key Features
 - **Real-Time Object Detection**: Utilizes YOLOv8n for precise and quick identification of grocery items.
